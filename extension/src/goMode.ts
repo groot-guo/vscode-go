@@ -24,5 +24,6 @@ export const GoDocumentSelector = [
 	{ language: 'go.mod', scheme: 'file' },
 	{ language: 'go.sum', scheme: 'file' },
 	{ language: 'go.work', scheme: 'file' },
-	{ language: 'gotmpl', scheme: 'file' }
+	{ language: 'gotmpl', scheme: 'file' },
+	{ language: 'goasm', scheme: 'file' }
 ];
